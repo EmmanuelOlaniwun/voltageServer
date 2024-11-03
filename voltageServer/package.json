@@ -1,0 +1,12 @@
+{
+  "name": "voltageserver",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
